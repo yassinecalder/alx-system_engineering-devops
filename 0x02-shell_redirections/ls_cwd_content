@@ -1,0 +1,19 @@
+total 64
+drwxrwxr-x 2 vagrant vagrant 4096 Dec 11 21:39 .
+drwxrwxr-x 6 vagrant vagrant 4096 Dec 11 17:00 ..
+-rwxrw-r-- 1 vagrant vagrant   30 Dec 11 17:10 0-hello_world
+-rwxrw-r-- 1 vagrant vagrant   28 Dec 11 17:46 1-confused_smiley
+-rwxrw-r-- 1 vagrant vagrant   28 Dec 11 17:48 2-hellofile
+-rwxrw-r-- 1 vagrant vagrant   40 Dec 11 17:50 3-twofiles
+-rwxrw-r-- 1 vagrant vagrant   29 Dec 11 17:51 4-lastlines
+-rwxrw-r-- 1 vagrant vagrant   29 Dec 11 17:53 5-firstlines
+-rwxrw-r-- 1 vagrant vagrant   40 Dec 11 18:40 6-third_line
+-rwxrw-r-- 1 vagrant vagrant   79 Dec 11 21:35 7-file
+-rwxrw-r-- 1 vagrant vagrant   36 Dec 11 21:38 8-cwd_state
+-rw-rw-r-- 1 vagrant vagrant   42 Dec 11 17:01 README.md
+-rw-rw-r-- 1 vagrant vagrant   39 Dec 11 19:31 \*\'Best
+-rw-rw-r-- 1 vagrant vagrant   12 Dec 11 21:35 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 vagrant vagrant   12 Dec 11 19:26 hamid
+-rw-rw-r-- 1 vagrant vagrant    0 Dec 11 19:38 imad
+-rw-rw-r-- 1 vagrant vagrant    0 Dec 11 21:39 ls_cwd_content
+-rw-rw-r-- 1 vagrant vagrant   12 Dec 11 19:26 yassine
